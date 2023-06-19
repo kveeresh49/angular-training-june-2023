@@ -1,0 +1,25 @@
+we can write the css in Three way of Web Document or Browser.
+1) Inline CSS 
+2) ExternNel CSS
+3) Internal Css.
+
+HTML is the Tag Based Lang.
+In CSS elements.
+
+Syntax: .CSS
+<style>
+    . class
+    . Id
+    . Tag
+</style>
+
+
+
+1) chrome  -> v8 engine \
+2) ie 
+3) mozill  -> 
+
+
+1) getElementById   -> returns one specific tag
+2) getElementByclass  --> retunrs collections of array of  HTml elements 
+3) getElemenetBytag  --> --> retunrs collections of array of  HTml elements 
