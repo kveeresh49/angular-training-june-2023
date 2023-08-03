@@ -10,3 +10,8 @@
  a) Create new tag, added the values dynamically.
  b) change the style dynamically
  c) add focus on button click
+
+ // example 
+
+ document.getElementById('demo') -->
+ document.getElementByClassNamw('demo') -->
